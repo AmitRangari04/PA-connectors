@@ -1,0 +1,30 @@
+[
+  {
+    "type": "device",
+    "tenant": "acm1",
+    "device_id": "11d83e83c04b4595896bee2524a1854e",
+    "hostname": "ip-172-31-29-176",
+    "platform": "Linux",
+    "source_device_osversion": "Ubuntu 24.04",
+    "agent_version": "7.33.18606.0",
+    "external_ip": "54.242.39.226",
+    "local_ip": "172.31.29.176",
+    "first_seen": "2026-02-21T11:31:40Z",
+    "last_seen": "2026-02-22T08:31:03Z",
+    "source_device_os": "Linux"
+  },
+  {
+    "type": "device",
+    "tenant": "acm1",
+    "device_id": "11d83e83c04b4595896bee2524a1854e",
+    "hostname": "ip-172-31-29-176",
+    "platform": "Linux",
+    "source_device_osversion": "Ubuntu 24.04",
+    "agent_version": "7.33.18606.0",
+    "external_ip": "54.242.39.226",
+    "local_ip": "172.31.29.176",
+    "first_seen": "2026-02-21T11:31:40Z",
+    "last_seen": "2026-02-22T08:31:03Z",
+    "source_device_os": "Linux"
+  }
+]
