@@ -1,0 +1,158 @@
+{
+  "device_id": "9f1e041bc70a441080cbe36566cb84df",
+  "cid": "f350cd4bfb9a4913809dcdb78f232b71",
+  "agent_load_flags": "16",
+  "agent_local_time": "2026-01-25T19:54:29.982Z",
+  "agent_version": "7.32.20403.0",
+  "bios_manufacturer": "Dell Inc.",
+  "bios_version": "1.36.0",
+  "build_number": "26100",
+  "config_id_base": "65994767",
+  "config_id_build": "20403",
+  "config_id_platform": "3",
+  "cpu_signature": "526060",
+  "cpu_vendor": "0",
+  "external_ip": "223.233.82.46",
+  "mac_address": "e0-d4-64-b4-fb-40",
+  "hostname": "DESKTOP-92V9E9N",
+  "filesystem_containment_status": "normal",
+  "first_seen": "2026-01-25T08:35:05Z",
+  "last_login_timestamp": "2026-01-27T08:52:04Z",
+  "last_login_user": "sonia.gaonkar@partner.ibm.com",
+  "last_login_user_sid": "S-1-12-1-2944417527-1275365071-3142231466-3396532011",
+  "last_seen": "2026-01-27T09:33:27Z",
+  "local_ip": "192.168.1.107",
+  "machine_domain": "",
+  "major_version": "10",
+  "minor_version": "0",
+  "os_version": "Windows 11",
+  "os_build": "26100",
+  "platform_id": "0",
+  "platform_name": "Windows",
+  "policies": [
+    {
+      "policy_type": "prevention",
+      "policy_id": "3b601a5b11094c1cbba5732c17cf2212",
+      "applied": true,
+      "settings_hash": "e511bb5b",
+      "assigned_date": "2026-01-25T08:39:16.023019201Z",
+      "applied_date": "2026-01-25T08:58:32.686887129Z",
+      "rule_groups": []
+    }
+  ],
+  "reduced_functionality_mode": "no",
+  "rtr_state": "enabled",
+  "device_policies": {
+    "prevention": {
+      "policy_type": "prevention",
+      "policy_id": "3b601a5b11094c1cbba5732c17cf2212",
+      "applied": true,
+      "settings_hash": "e511bb5b",
+      "assigned_date": "2026-01-25T08:39:16.023019201Z",
+      "applied_date": "2026-01-25T08:58:32.686887129Z",
+      "rule_groups": []
+    },
+    "sensor_update": {
+      "policy_type": "sensor-update",
+      "policy_id": "3a543fb033594884b57b9c1975c8f0db",
+      "applied": true,
+      "settings_hash": "tagged|1;101",
+      "assigned_date": "2026-01-25T14:21:08.709107842Z",
+      "applied_date": "2026-01-25T14:27:55.347870026Z",
+      "uninstall_protection": "ENABLED"
+    },
+    "device_control": {
+      "policy_type": "device-control",
+      "policy_id": "f2926f3840f0302efa7b5559a547b22a",
+      "applied": true,
+      "settings_hash": "dcea9313",
+      "assigned_date": "2026-01-25T08:39:16.023075556Z",
+      "applied_date": "2026-01-25T08:47:04.629929687Z"
+    },
+    "global_config": {
+      "policy_type": "globalconfig",
+      "policy_id": "8e9663040117440e99d9d97168c94154",
+      "applied": true,
+      "settings_hash": "9036d5e",
+      "assigned_date": "2026-01-26T17:19:49.77276451Z",
+      "applied_date": "2026-01-27T03:54:17.014932193Z"
+    },
+    "remote_response": {
+      "policy_type": "remote-response",
+      "policy_id": "577a36bff4984a5ca8659b6c6fe43b9e",
+      "applied": true,
+      "settings_hash": "f472bd8e",
+      "assigned_date": "2026-01-25T08:39:16.023092223Z",
+      "applied_date": "2026-01-25T08:58:32.656326818Z"
+    },
+    "firewall": {
+      "policy_type": "firewall",
+      "policy_id": "2b395239bccc4f2297eb1aa4caf57dc4",
+      "applied": true,
+      "settings_hash": "c223a3a0",
+      "assigned_date": "2026-01-25T08:39:16.023012856Z",
+      "applied_date": "2026-01-25T08:47:04.742891917Z",
+      "rule_set_id": "2b395239bccc4f2297eb1aa4caf57dc4"
+    },
+    "system-tray": {
+      "policy_type": "system-tray",
+      "policy_id": "926122b145a7412a9cb836019bb4004b",
+      "applied": true,
+      "settings_hash": "d85de5cdab609fc07504cc24a67b61a3b23aea0c26dbcc0bb9e34dc8f79d716b",
+      "assigned_date": "2026-01-25T08:39:16.023071882Z",
+      "applied_date": "2026-01-25T08:40:06.320955736Z"
+    },
+    "host-retention": {
+      "policy_type": "host-retention",
+      "policy_id": "1bc4778db6514af5ac2e204a542f5068",
+      "applied": true,
+      "settings_hash": "fce339fc6cbb4dae36929fe363a81368f4a7e3f2c3a3d62ff7e3ef202ee48df5",
+      "assigned_date": "2026-01-25T08:39:16.023002306Z",
+      "applied_date": "2026-01-25T08:40:06.175980293Z"
+    },
+    "content-update": {
+      "policy_type": "content-update",
+      "policy_id": "7529fa78a6bd4986b8d085b8ba9f60c7",
+      "applied": true,
+      "settings_hash": "6530348163684255055",
+      "assigned_date": "2026-01-25T08:39:16.023023627Z",
+      "applied_date": "2026-01-25T08:39:16.023023627Z"
+    },
+    "exposure-management": {
+      "policy_type": "exposure-management",
+      "policy_id": "5d03894d45de47779f7fb093f153a525",
+      "applied": true,
+      "settings_hash": "c711fe685a807dd2c830d5444005cbdb2a344cca4ad81151c7bdead98b497c1d",
+      "assigned_date": "2026-01-27T03:47:33.927981012Z",
+      "applied_date": "2026-01-27T03:54:15.735310656Z"
+    }
+  },
+  "groups": [],
+  "group_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "product_type": "1",
+  "product_type_desc": "Workstation",
+  "provision_status": "Provisioned",
+  "serial_number": "6L5WC63",
+  "service_pack_minor": "0",
+  "pointer_size": "8",
+  "status": "normal",
+  "system_manufacturer": "Dell Inc.",
+  "system_product_name": "Latitude 3410",
+  "tags": [],
+  "modified_timestamp": "2026-01-27T09:35:02Z",
+  "meta": {
+    "version": "79",
+    "version_string": "4:182287533"
+  },
+  "kernel_version": "10.0.26100.7623",
+  "os_product_name": "Windows 11 Enterprise",
+  "chassis_type": "10",
+  "chassis_type_desc": "Laptop",
+  "last_reboot": "2026-01-25T14:14:13Z",
+  "pod_labels": [],
+  "pod_annotations": [],
+  "connection_ip": "192.168.1.107",
+  "default_gateway_ip": "192.168.1.1",
+  "connection_mac_address": "e0-d4-64-b4-fb-40",
+  "tenant": "acme45"
+}
